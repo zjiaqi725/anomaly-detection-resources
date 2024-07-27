@@ -1,4 +1,4 @@
-Anomaly Detection Learning Resources
+## Anomaly Detection Learning Resources
 ====================================
 
 .. image:: https://img.shields.io/github/stars/yzhao062/anomaly-detection-resources.svg
